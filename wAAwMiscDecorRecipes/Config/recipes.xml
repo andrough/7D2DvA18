@@ -151,14 +151,14 @@
 <recipe name="cntVendingMachine" count="1" craft_area="workbench" tags="workbenchCrafting">
 	<ingredient name="casinoCoin" count="1000"/>
 </recipe>
-
+<!--
 <recipe name="cntVendingMachine2" count="1" craft_area="workbench" tags="workbenchCrafting">
 	<ingredient name="casinoCoin" count="50000"/>
 	<ingredient name="resourceForgedSteel" count="500"/>
 	<ingredient name="resourceElectricParts" count="50"/>
 	<ingredient name="resourceScrapPolymers" count="1000"/>
 </recipe>
-
+-->
 <recipe name="decoCowSkull" count="1" craft_area="cementMixer" tags="cementMixerCrafting">
 	<ingredient name="resourceBone" count="5"/>
 	<ingredient name="resourceDuctTape" count="1"/>
