@@ -1,0 +1,227 @@
+<configs>
+
+<append xpath="/blocks">
+
+<block name="bagPalletBlockVariantHelper">
+	<property name="Extends" value="palletWhiteBagsBase"/>
+	<property name="CustomIcon" value="palletWhiteBagsBase"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="palletWhiteBagsBase,palletWhiteBagsTile,palletWhiteBagsTop,palletWhiteBagsPartial1,palletWhiteBagsPartial2,palletWhiteBagsLoose,palletBlueTarpBase,palletBlueTarpTile"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="boxPalletBlockVariantHelper">
+	<property name="Extends" value="palletBrownBoxesBase"/>
+	<property name="CustomIcon" value="palletBrownBoxesBase"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="palletBrownBoxesBase,palletBrownBoxesTile,palletBrownBoxesTop,palletBrownBoxesLoose,palletEmpty,palletEmptyStack,palletCompressedCardboard,modularFireWoodStackA,modularFireWoodStackB,modularFireWoodStackC,modularFireWoodStackD"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="brickPalletBlockVariantHelper">
+	<property name="Extends" value="palletBricksBase"/>
+	<property name="CustomIcon" value="palletBricksBase"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="palletBricksBase,palletBricksTile,palletBricksTop,palletBricksPartial1,palletBricksPartial2,palletBricksLoose"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="pipesBlockVariantHelper">
+	<property name="Extends" value="metalPipeStraight"/>
+	<property name="CustomIcon" value="metalPipeStraight"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="metalPipeStraight,metalPipeValve,metalPipeCorner,metalPipeJoint,metalPipeCap,metalPipeFlange,pipeSmall1x1,pipeSmall1x3,pipeSmallBroke,pipeSmallCap,pipeSmallCorner,pipeSmallJoint,pipeSmallWall1x1,pipeSmallWall1x3,pipeSmallWallBroke,pipeSmallWallCap,pipeSmallWallCenterBridge,pipeSmallWallCorner,pipeSmallWallJoint,pipeSmallWallValve,ductSoft,ductSoftCorner,ductSoftCorner2"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="woodTrimBlockVariantHelper">
+	<property name="Extends" value="woodCrown"/>
+	<property name="CustomIcon" value="woodCrown"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="woodFloorJoist,woodWallStud,woodCrown,woodCrownInsideCorner,woodWindowTrim,woodWindowTrimBottom,woodWindowTrimTop,woodWindowTrimSides,woodWindowTrimTopFancy"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="houseDoorBlockVariantHelper">
+	<property name="Extends" value="houseFrontDoor1_v1"/>
+	<property name="CustomIcon" value="houseFrontDoor1_v1"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="houseFrontDoor1_v1,houseFrontDoor2_v1"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="commercialDoorBlockVariantHelper">
+	<property name="Extends" value="commercialDoor1_v1"/>
+	<property name="CustomIcon" value="commercialDoor1_v1"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="commercialDoor1_v1,commercialDoor2_v1,commercialDoor4_v1"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="embersBlockVariantHelper">
+	<property name="Extends" value="emberPileDeco1"/>
+	<property name="CustomIcon" value="emberPileDeco1"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="emberPileDeco1,emberPileDeco2,emberPileDeco3,emberPileDeco4,emberPileLightPOI1,emberPileLightPOI2"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="chainlinkPolesBlockVariantHelper">
+	<property name="Extends" value="chainLink"/>
+	<property name="CustomIcon" value="chainLink"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="corrugatedMetalPillar0.05,corrugatedMetalPillar0.025,corrugatedMetalPillar0.05CTR,corrugatedMetalPillar0.05SCTR,corrugatedMetalPillar0.025CTR,corrugatedMetalPillar0.025SCTR,chainLink,chainLinkFenceBottomPole,chainLinkFenceTop,chainLinkFenceTopPole,chainLinkPole,chainLinkCornerTop,chainLinkCornerBottom,chainLinkFenceTopPole2"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="carPartsBlockVariantHelper">
+	<property name="Extends" value="decoCarSeatUpright"/>
+	<property name="CustomIcon" value="decoCarSeatUpright"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="decoCarBackBumperUpright,decoCarBackDoorFlat,decoCarSeatUpright,decoCarFenderFlat,decoCarFrontBumperFlat,decoCarFrontDoorFlat,decoCarHoodFlat,decoCarMotorFlat,decoCarTrunkLidFlat,decoCarPartsRamp,decoCarTireSmallFlat,decoCarTireFlat,decoCarTirePile,decoCarTireStack,decoCarWheelFlat"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="plumbingBlockVariantHelper">
+	<property name="Extends" value="utilitySink"/>
+	<property name="CustomIcon" value="utilitySink"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntGraniteSink,cntCabinetOldSink,utilitySink,wallHungSink,cntBathTubEmpty,cntBathTubGore,decoClawFootBathTub,cntToilet01,cntToilet02,cntToilet03"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="stoneDecorBlockVariantHelper">
+	<property name="Extends" value="birdBathPlanter"/>
+	<property name="CustomIcon" value="birdBathPlanter"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="concreteBarrier1,concreteBarrier2,concreteBarrier3,birdBathPlanter,graveStone01,graveStone02,graveStone03,graveStone04,graveStone05,graveStone06,graveStone07,graveStone08,cinderBlocks01,cinderBlocks02,cinderBlocks03"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="barrelsBlockVariantHelper">
+	<property name="Extends" value="cntBarrelGasOld"/>
+	<property name="CustomIcon" value="cntBarrelGasOld"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntBarrelGasSingle00,cntBarrelGasSingle45,cntBarrelGasQuadA,cntBarrelGasQuadB,cntBarrelGasOld,cntBarrelGenericSingle00,cntBarrelGenericSingle45,cntBarrelGenericQuadA,cntBarrelGenericQuadB,cntBarrelOilSingle00,cntBarrelOilSingle45,cntBarrelOilQuadA,cntBarrelOilQuadB,cntBarrelRadiatedSingle00,cntBarrelRadiatedSingle45,cntBarrelRadiatedQuadA,cntBarrelRadiatedQuadB,cntBarrelWhiteSingle00,cntBarrelWhiteSingle45,cntBarrelWhiteQuadA,cntBarrelWhiteQuadB,cntBarrelAcidSingle00,cntBarrelAcidSingle45,cntBarrelAcidQuadA,cntBarrelAcidQuadB,cntBarrelPlasticSingle00,cntBarrelPlasticSingle45,cntBarrelPlasticQuadA,cntBarrelPlasticQuadB"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="plasticsBlockVariantHelper">
+	<property name="Extends" value="cntBarrelAcidSingle00"/>
+	<property name="CustomIcon" value="cntBarrelAcidSingle00"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntTrashPile01,cntTrashPile02,cntTrashPile03,cntTrashPile04,cntTrashPile05,cntTrashPile06,cntTrashPile07,cntTrashPile08,cntTrashPile09,cntCoolerClosed,cntLaundryBasketVer1Empty,cntLaundryBasketVer2Full,cntBruteStyleTrashCanEmpty,cntBruteStyleTrashCanFull,cntWeaponsBagSmall,cntWeaponsBagLarge,decoLargePetCage,cntWaterCoolerFull,cntWaterCoolerBottle,cntDuffle01,cntSportsBag01,cntBackpack03,cntPurse01,cntSuitcase,cntLuggageBigClosed,cntLuggagePileAClosed,cntLuggagePileBClosed,cntModularClosetClosed,cntModularClosetEnd,cntShoppingBasketEmpty,cntShoppingBasket"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="cartsBlockVariantHelper">
+	<property name="Extends" value="cntUtilityCartEmpty"/>
+	<property name="CustomIcon" value="cntUtilityCartEmpty"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntToolBoxOpen,cntToolBoxClosed,cntRollingToolBoxClosed,cntUtilityCartEmpty,cntUtilityCartFull,cntJanitorCartFull,decoHandTruck,cntTiltTruckEmpty,cntTiltTruckFull,decoWildWestWagon,decoHoistHook,decoHoistTopMount,cntCharcoalGrillClosed,pipeSmallValve"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="appliancesBlockVariantHelper">
+	<property name="Extends" value="cntCoffeeMaker"/>
+	<property name="CustomIcon" value="cntCoffeeMaker"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntWallOven,cntStoveOldVer1Closed,cntGasGrillClosed,cntMicrowaveOvenVer1Closed,cntToaster,cntCoffeeMaker,cntCoffeeMakerCommercial,cntSodaFountain,cntRetroFridgeVer1Closed,cntFridgeStainlessSteel,cntBeerCooler,cntWashingMachine,cntIceMachine,cntWasherClosed,cntDryerClosed,cntGasPump,decoComputerDeskTopPC,decoComputerMonitorKeyboardMousePC,decoComputerMonitorKeyboardMouse,decoComputerMonitor,tv,tv_large_1,tv_large_2,decoStationaryBike,decoTreadmill,hospitalBed,cntCashRegister,airConditionVentFan,airConditionVentFanDouble,satelliteDish,satelliteDishSmall"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="glassStuffBlockVariantHelper">
+	<property name="Extends" value="paintingBen"/>
+	<property name="CustomIcon" value="paintingBen"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="paintingBen,paintingLorien,paintingDerek,paintingNoah,paintingDuke,paintingKen,cntMedicineCabinetFaucetClosed,cntMedicineCabinetClosed,mirror"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="detailsBlockVariantHelper">
+	<property name="Extends" value="cntAmmoPileSmall"/>
+	<property name="CustomIcon" value="cntAmmoPileSmall"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntAmmoPileSmall,cntAmmoPileMedium,cntAmmoPileLarge,cntMedicalPileSmall,cntMedicalPileMedium,cntMedicalPileLarge,cntMedicLootPileA,cntMedicLootPileB,cntFoodPileSmall,cntFoodPileMedium,cntFoodPileLarge,cobweb,curtain_top1Sheet3,curtain_bottom1Sheet3,commercialBlindsTop,commercialBlindsBottom,miniblindTopSheet,miniblindBottomSheet"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="metalStuffBlockVariantHelper">
+	<property name="Extends" value="decoWeightBar"/>
+	<property name="CustomIcon" value="decoWeightBar"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="cntTrash_can01,cntBin,cntFancyGarbageCan,cntDomedTrashCanEmpty,cntDumpster,barStool,decoSwingSet,decoBasketBallHoop,decoWeightBar,decoBenchPress,gurneyBed,decoHoistChain,decoHoistSpreader,fountain,cntMunitionsBox"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+<block name="controlPanelBlockVariantHelper">
+	<property name="Extends" value="controlPanelBase01"/>
+	<property name="CustomIcon" value="controlPanelBase01"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="DescriptionKey" value="blockVariantHelperGroupDesc"/>
+	<property name="ItemTypeIcon" value="all_blocks"/>
+	<property name="SelectAlternates" value="true" />
+	<property name="PlaceAltBlockValue" value="controlPanelBase01,controlPanelBase02,controlPanelBase03,controlPanelBase04,controlPanelBase05,controlPanelBase06,controlPanelBase07,controlPanelBase08,controlPanelTop01,controlPanelTop02,controlPanelTop03,controlPanelTop04,controlPanelTop05,controlPanelTop06,controlPanelTop07,controlPanelCorner,fusebox,conduit01,conduit01Curve,conduit01End,conduit01Corner,decoHoistMagnet"/>
+	<property name="SellableToTrader" value="false"/>
+</block>
+
+</append>
+
+</configs>
