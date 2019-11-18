@@ -1,0 +1,137 @@
+<configs>
+
+<append xpath="/recipes">
+
+<recipe name="bagPalletBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceCement" count="100"/>
+	<ingredient name="resourceCobblestones" count="35"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="boxPalletBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourcePaper" count="10"/>
+	<ingredient name="resourceWood" count="40"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="brickPalletBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceRockSmall" count="50"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="pipesBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="woodTrimBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceGlue" count="1"/>
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceNail" count="5"/>
+</recipe>
+
+<recipe name="houseDoorBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceWood" count="20"/>
+	<ingredient name="resourceDoorKnob" count="1"/>
+	<ingredient name="resourceNail" count="10"/>
+</recipe>
+
+<recipe name="commercialDoorBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceScrapIron" count="10"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="1"/>
+</recipe>
+
+<recipe name="embersBlockVariantHelper" count="1" craft_area="campfire">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceCoal" count="10"/>
+</recipe>
+
+<recipe name="chainlinkPolesBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceScrapIron" count="10"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="carPartsBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceGlue" count="2"/>
+	<ingredient name="resourceDuctTape" count="1"/>
+</recipe>
+
+<recipe name="plumbingBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceMetalPipe" count="5"/>
+	<ingredient name="resourceCobblestones" count="50"/>
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="1"/>
+	<ingredient name="resourceScrapBrass" count="10"/>
+</recipe>
+
+<recipe name="stoneDecorBlockVariantHelper" count="1" craft_area="cementMixer" tags="cementMixerCrafting">
+	<ingredient name="resourceCement" count="10"/>
+	<ingredient name="resourceRockSmall" count="10"/>
+	<ingredient name="resourceCrushedSand" count="10"/>
+</recipe>
+
+<recipe name="barrelsBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceForgedIron" count="50"/>
+	<ingredient name="resourcePaper" count="1"/>
+	<ingredient name="resourcePaint" count="5"/>
+	<ingredient name="resourceWood" count="5"/>
+	<ingredient name="ammoGasCan" count="1000"/>
+</recipe>
+
+<recipe name="plasticsBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceForgedIron" count="2"/>
+	<ingredient name="resourceCloth" count="5"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourcePaper" count="5"/>
+	<ingredient name="resourcePaint" count="5"/>
+</recipe>
+
+<recipe name="cartsBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceCloth" count="5"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="appliancesBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceMetalPipe" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="3"/>
+	<ingredient name="resourceElectricParts" count="6"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceForgedIron" count="20"/>
+</recipe>
+
+<recipe name="glassStuffBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="glassBlockVariantHelper" count="1"/>
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceScrapIron" count="25"/>
+	<ingredient name="resourcePaint" count="5"/>
+</recipe>
+
+<recipe name="detailsBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceBrokenGlass" count="5"/>
+	<ingredient name="resourcePaper" count="5"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+	<ingredient name="drinkCanEmpty" count="2"/>
+	<ingredient name="resourceCloth" count="5"/>
+</recipe>
+
+<recipe name="metalStuffBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="controlPanelBlockVariantHelper" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceMetalPipe" count="2"/>
+	<ingredient name="resourceElectricParts" count="8"/>
+	<ingredient name="resourceSpring" count="1"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+</append>
+
+</configs>
